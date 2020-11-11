@@ -1,0 +1,21 @@
+{
+  "name": "express_learn",
+  "version": "1.0.0",
+  "description": "learning express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "cetric lihalakha",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.16.1",
+    "express": "^4.17.1",
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
